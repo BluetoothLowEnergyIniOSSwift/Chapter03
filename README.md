@@ -26,9 +26,9 @@ To see code from other chapters, see the [table of contents](https://github.com/
 
 ### Central
 
-![ScreenShot](Screenshots/Central 1.jpg)
-![ScreenShot](Screenshots/Central 2.jpg)
+![ScreenShot](Screenshots/Central%201.jpg)
+![ScreenShot](Screenshots/Central%202.jpg)
 
 ### Perpiheral
 
-![ScreenShot](Screenshots/Peripheral 1.jpg)
+![ScreenShot](Screenshots/Peripheral%201.jpg)
